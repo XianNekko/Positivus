@@ -11,6 +11,8 @@
 @use "./base/typography";
 @use "./base/base";
 
-// Layout
-
 // Components
+@use "./components/button";
+
+// Layout
+@use "./layout/header";
