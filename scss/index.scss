@@ -13,6 +13,9 @@
 
 // Components
 @use "./components/button";
+@use "./components/burger-button";
+@use "./components/cross-button";
+@use "./components/mobile-overlay";
 
 // Layout
 @use "./layout/header";
